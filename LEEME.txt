@@ -1,0 +1,17 @@
+NUESTRA HISTORIA - Sheylee & Darwinson
+
+Cómo abrirla:
+1. Descomprime el .zip.
+2. En Visual Studio Code: Archivo > Abrir carpeta... y elige la carpeta "nuestra-historia".
+3. Para verla, haz doble clic en index.html o usa la extensión "Live Server"
+   (clic derecho en index.html > Open with Live Server).
+
+Estructura:
+- index.html   -> la página (textos y estructura)
+- css/style.css -> colores, letras, diseño y animaciones
+- js/app.js    -> contraseña, contadores, visor de fotos y animaciones al bajar
+- img/         -> las fotos
+- vid/         -> los videos y sus portadas
+
+Contraseña: la fecha de aniversario (14/03/2024). Se valida en la función isAnniversary de js/app.js.
+Las letras (Caveat, Literata, Courier Prime) se cargan de Google Fonts, así que necesitas internet para verlas igual.
